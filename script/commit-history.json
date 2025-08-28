@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "241c353b4cbfb6bbd21012bf474e1b8a69b6f2df",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-08-28T13:26:29.000Z",
       "message": "feat: muestra tablero inicial de love-love",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/241c353b4cbfb6bbd21012bf474e1b8a69b6f2df"
     },
     "stats": {
       "total": 13,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:12:59.000Z",
+      "message": "refactoring: ahora se encapsula en objetos la funcionalidad del scorer",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 33,
+      "deletions": 7,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

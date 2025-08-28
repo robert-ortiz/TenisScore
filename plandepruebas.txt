@@ -12,7 +12,7 @@ Jugador 1 anota 	4-2	"Game Player 1"
 Plan de Pruebas
 ========
 Empieza sin puntos     --> "Love - Love"
-Jugador 1 marca un punto ---> "15 - 0"
+Jugador 1 marca un punto ---> "15 - love"
 Jugador 1 marca dos veces un punto ---> "30 - 0"                                   
 Jugador 1 marca tres veces un punto ---> "40 - 0"                                   
 
