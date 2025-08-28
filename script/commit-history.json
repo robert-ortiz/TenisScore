@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "4c20df5b9cc95829796915d62b4d9bdc1705b492",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-08-28T13:19:46.000Z",
       "message": "Doc: plan de pruebas",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/4c20df5b9cc95829796915d62b4d9bdc1705b492"
     },
     "stats": {
       "total": 32,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:26:29.000Z",
+      "message": "feat: muestra tablero inicial de love-love",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
