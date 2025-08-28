@@ -76,17 +76,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "20e7d9431375cd3656b76509be8334d1d8f5ab2c",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-08-28T14:19:23.000Z",
       "message": "feat: El jugador 1 marca 3 puntos y el jugador 2 en 0",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/20e7d9431375cd3656b76509be8334d1d8f5ab2c"
     },
     "stats": {
       "total": 9,
       "additions": 9,
       "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T21:14:29.000Z",
+      "message": "Doc: Explicacion de las reglas para mostrar el score",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 37,
+      "deletions": 3,
       "date": "2025-08-28"
     },
     "coverage": 100,
