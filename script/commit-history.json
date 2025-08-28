@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0349dde514b15274efe4606f549c8afc0c7186ba",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-08-28T14:12:59.000Z",
       "message": "refactoring: ahora se encapsula en objetos la funcionalidad del scorer",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/0349dde514b15274efe4606f549c8afc0c7186ba"
     },
     "stats": {
       "total": 40,
       "additions": 33,
       "deletions": 7,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:15:26.000Z",
+      "message": "refacoring: se mejoro nombres de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
       "date": "2025-08-28"
     },
     "coverage": 100,

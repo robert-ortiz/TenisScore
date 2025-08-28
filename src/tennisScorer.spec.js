@@ -7,13 +7,13 @@ describe("TennisScorer", () => {
     expect(scorer.showScore()).toEqual("Love - Love");
   });
 
-  it("Jugador 1 marca un punto ---> 15 0", () => {
+  it("Jugador 1 marca un punto y el jugador en cero", () => {
     const scorer = new TennisScorer();
     scorer.player1Scores();
     expect(scorer.showScore()).toEqual("15 - Love");
   });
 
-  it("Jugador 1 marca 2 puntos ---> 30 0", () => {
+  it("Jugador 1 marca 2 puntos y jugador 2 en cero", () => {
     const scorer = new TennisScorer();
     scorer.player1Scores();
     scorer.player1Scores();
