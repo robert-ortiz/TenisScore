@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:19:46.000Z",
+      "message": "Doc: plan de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 32,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
