@@ -11,4 +11,10 @@ describe('TennisScorer', () => {
     scorer.player1Scores();
     expect(scorer.showScore()).toEqual('15 - Love');
   });
+  it('Jugador 2 anota', () => {
+    const scorer = new TennisScorer();
+    scorer.player1Scores();
+    scorer.player2Scores();
+    expect(scorer.showScore()).toEqual('15 - 15');
+  });
 });
