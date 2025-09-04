@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fe8bb25fa8dbe082184a8115dd70ea4e86b15749",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T05:07:43.000Z",
       "message": "first commit:test en rojo para comenzar marcador",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/fe8bb25fa8dbe082184a8115dd70ea4e86b15749"
     },
     "stats": {
       "total": 75,
@@ -131,5 +131,24 @@
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T05:18:04.000Z",
+      "message": "first commit:test en verde para comenzar marcador",
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 25,
+      "deletions": 9,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
