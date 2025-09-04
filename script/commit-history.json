@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b7227c2cf1f38d23472636cdaa14c87eca23ffb4",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T05:31:21.000Z",
       "message": "feat: test rojo jugador 2 anota y marcador igualado 15-15",
-      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/b7227c2cf1f38d23472636cdaa14c87eca23ffb4"
     },
     "stats": {
       "total": 6,
@@ -207,5 +207,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T05:38:56.000Z",
+      "message": "feat: jugador 2 anota y marcador igualado 15-15",
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
