@@ -247,12 +247,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "d1ef65d958d35331677d874b5fed071390155457",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T05:49:59.000Z",
       "message": "feat: marcador llega a douce",
-      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/d1ef65d958d35331677d874b5fed071390155457"
     },
     "stats": {
       "total": 21,
@@ -261,6 +261,25 @@
       "date": "2025-09-04"
     },
     "coverage": 50,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T05:54:40.000Z",
+      "message": "fix: codigo completo optimizado",
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 57,
+      "additions": 35,
+      "deletions": 22,
+      "date": "2025-09-04"
+    },
+    "coverage": 54.55,
     "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
