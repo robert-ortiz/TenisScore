@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "13296c7284dae2a19b73bc1a6dc464e4f49ec4b9",
     "author": "Robert",
     "commit": {
       "date": "2025-09-04T05:42:19.000Z",
       "message": "feat:test rojo marcador llega a douce",
-      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/13296c7284dae2a19b73bc1a6dc464e4f49ec4b9"
     },
     "stats": {
       "total": 10,
@@ -245,5 +245,24 @@
     "test_count": 4,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Robert",
+    "commit": {
+      "date": "2025-09-04T05:49:59.000Z",
+      "message": "feat: marcador llega a douce",
+      "url": "https://github.com/robert-ortiz/TenisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 21,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 50,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
